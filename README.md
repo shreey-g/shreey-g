@@ -1,18 +1,13 @@
-## Hi there 👋
-<p align="center"> <b>Myself Shreyasee Gupta 👋</b></p>
+# Hi, I'm Shreyasee Gupta 👋 
 
-<p align="center">
-  <b>BTech Student</b>
-</p>
+BTech Student who is trying to explore the world of Tech in my own way
 
----
+# About Me
 
-## 🚀 About Me
-
-- 🎓 Engineering student building strong fundamentals
-- 💻 Currently mastering **Java**
-- 🧠 Focused on **Data Structures & Problem Solving**
-- 🎯 Long-term goal: Crack top product-based companies
-- 📈 Believer in: `if (focus) { growth++; }`
-
----
+- Currently learning Java and have basic knowledge of C
+- I love to sing, even though I’m not a singer  
+- I love to work especially on things I truly want and believes in  
+- Strong believer in `consistency >> perfection`  
+- Fun fact: `I’m naturally cautious and take time to trust`  
+- Trying to explore and learn as much as I can
+- Reach out to me: gshrey.1105@gmail.com
